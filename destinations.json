@@ -1,0 +1,169 @@
+{
+    "destinations": [
+        {
+            "name": "Barcellona",
+            "trips": [
+                {
+                    "departure": "Valdagno",
+                    "destination": "Genoa",
+                    "km": 350,
+                    "hoursAndMinutes": "4:00"
+                },
+                {
+                    "departure": "Genoa",
+                    "destination": "Nice",
+                    "km": 200,
+                    "hoursAndMinutes": "2:30"
+                },
+                {
+                    "departure": "Nice",
+                    "destination": "Marseille",
+                    "km": 250,
+                    "hoursAndMinutes": "4:00"
+                },
+                {
+                    "departure": "Marseille",
+                    "destination": "Montpellier",
+                    "km": 170,
+                    "hoursAndMinutes": "4:00"
+                },
+                {
+                    "departure": "Marseille",
+                    "destination": "Barcellona",
+                    "km": 350,
+                    "hoursAndMinutes": "3:50"
+                }
+            ]
+        },
+        {
+            "name": "Rome",
+            "trips": [
+                {
+                    "departure": "Valdagno",
+                    "destination": "Rome",
+                    "km": 600,
+                    "hoursAndMinutes": "6:00"
+                }
+            ]
+        },
+        {
+            "name": "Naples",
+            "trips": [
+                {
+                    "departure": "Valdagno",
+                    "destination": "Rome",
+                    "km": 600,
+                    "hoursAndMinutes": "6:00"
+                },
+                {
+                    "departure": "Rome",
+                    "destination": "Naples",
+                    "km": 230,
+                    "hoursAndMinutes": "2:30"
+                }
+            ]
+        },
+        {
+            "name": "(Rome, Naples and) Bari!",
+            "trips": [
+                {
+                    "departure": "Valdagno",
+                    "destination": "Rome",
+                    "km": 600,
+                    "hoursAndMinutes": "6:00"
+                },
+                {
+                    "departure": "Rome",
+                    "destination": "Naples",
+                    "km": 230,
+                    "hoursAndMinutes": "2:30"
+                },
+                {
+                    "departure": "Naples",
+                    "destination": "Bari",
+                    "km": 260,
+                    "hoursAndMinutes": "3:00"
+                }
+            ]
+        },
+        {
+            "name": "Bucarest",
+            "trips": [
+                {
+                    "departure": "Valdagno",
+                    "destination": "Zagreb",
+                    "km": 470,
+                    "hoursAndMinutes": "5:00"
+                },
+                {
+                    "departure": "Zagreb",
+                    "destination": "Belgrado",
+                    "km": 400,
+                    "hoursAndMinutes": "4:00"
+                },
+                {
+                    "departure": "Belgrado",
+                    "destination": "Craiova",
+                    "km": 370,
+                    "hoursAndMinutes": "5:00"
+                },
+                {
+                    "departure": "Craiova",
+                    "destination": "Bucarest",
+                    "km": 230,
+                    "hoursAndMinutes": "3:00"
+                }
+            ]
+        },
+        {
+            "name": "Innsbruck, Austria",
+            "trips": [
+                {
+                    "departure": "Valdagno",
+                    "destination": "Innsbruck",
+                    "km": 260,
+                    "hoursAndMinutes": "3:30"
+                }
+            ]
+        },
+        {
+            "name": "Vicenza",
+            "trips": [
+                {
+                    "departure": "Valdagno",
+                    "destination": "Vicenza",
+                    "km": 31,
+                    "hoursAndMinutes": "0:38"
+                }
+            ]
+        },
+        {
+            "name": "Asiago",
+            "trips": [
+                {
+                    "departure": "Valdagno",
+                    "destination": "Asiago",
+                    "km": 46,
+                    "hoursAndMinutes": "1:00",
+                    "taxes": {
+                        "troll": 2
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ContraPria",
+            "trips": [
+                {
+                    "departure": "Valdagno",
+                    "destination": "ContraPria",
+                    "km": 30,
+                    "hoursAndMinutes": "0:40",
+                    "taxes": {
+                        "troll": 2
+                    }
+                }
+            ]
+        }
+    ]
+}
